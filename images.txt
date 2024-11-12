@@ -1,2 +1,7 @@
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:latest
+bitnami/zookeeper:3.7.1
+bitnami/postgresql:15.2.0
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
 
